@@ -1,5 +1,5 @@
 # MALIGN: Method-Level Alignment for Android Malware Detection with Multimodal Hierarchical Fusion
-Here is the relevant dataset, open-source code and reproduced code of the baseline for the article titled "MALIGN: Method-Level Alignment for Android Malware Detection with Multimodal Hierarchical Fusion".
+Here is the relevant dataset, open-source code and reproduced code of the baselines for the article titled "MALIGN: Method-Level Alignment for Android Malware Detection with Multimodal Hierarchical Fusion".
 ## Dataset
 ### Data-MD 
 Data-MD is a dataset for Android malware detection, which can be downloaded from this link https://github.com/Maruko912/AMDs/tree/main/Data-MD.
